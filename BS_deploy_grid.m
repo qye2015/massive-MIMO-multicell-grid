@@ -14,7 +14,7 @@
 % last updated: 1/26/15 2:56pm
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function DistanceM  =   BS_deploy_grid(BS, nm, L, )
-
+%%%
 % the hexgonal BS locations
 BStp                =   getCor(sqrt(nP),L)
 
